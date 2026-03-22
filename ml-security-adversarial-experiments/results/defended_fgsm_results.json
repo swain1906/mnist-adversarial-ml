@@ -1,0 +1,28 @@
+{
+    "epsilon_values": [
+        0.00784313725490196,
+        0.01568627450980392,
+        0.03137254901960784
+    ],
+    "clean_accuracy": [
+        99.13,
+        99.13,
+        99.13
+    ],
+    "robust_accuracy": [
+        98.92,
+        98.65,
+        97.85
+    ],
+    "attack_success_rate": [
+        0.21184303439927368,
+        0.4842126500554827,
+        1.2912337334812871
+    ],
+    "metadata": {
+        "model": "Defended CNN (FGSM Adversarial Training)",
+        "attack": "FGSM",
+        "evaluation_time_seconds": 25.458584547042847,
+        "timestamp": "2025-11-11 14:02:05"
+    }
+}

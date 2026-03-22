@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MNIST Adversarial ML Project</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        .result-box {
+            background: #ecf0f1;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .metric {
+            display: inline-block;
+            background: #3498db;
+            color: white;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 5px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>MNIST Adversarial Machine Learning</h1>
+    <p><strong>Adversarial attacks and defenses on MNIST using FGSM</strong></p>
+    
+    <div class="result-box">
+        <h2>Key Results</h2>
+        <div class="metric">Baseline: 98.34% → 24.12%</div>
+        <div class="metric">Defended: 96.78% → 82.45%</div>
+        <div class="metric">Improvement: +58.33%</div>
+    </div>
+    
+    <h2>Project Overview</h2>
+    <p>Complete implementation of FGSM adversarial attacks and adversarial training defense on MNIST digit classification.</p>
+    
+    <h2>Visualizations</h2>
+    <img src="../results/final_robustness_comparison.png" alt="Results">
+    
+    <h2>Links</h2>
+    <ul>
+        <li><a href="https://github.com/Jiren896/mnist-adversarial-ml">GitHub Repository</a></li>
+        <li><a href="../report/experiment_report.md">Full Report</a></li>
+        <li><a href="../README.md">Documentation</a></li>
+    </ul>
+</body>
+</html>
