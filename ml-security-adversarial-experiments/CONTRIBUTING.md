@@ -4,7 +4,7 @@ Thank you for your interest in this project!
 
 ## Project Status
 
-This is an academic project completed as part of Application Project Course at ESAIP.
+This is an academic project completed as part of Cyber Crisis Management Course at ESAIP.
 
 ## Questions and Discussions
 
@@ -12,7 +12,7 @@ For questions about the implementation or methodology:
 
 1. **Check existing issues** to see if your question has been answered
 2. **Open a new issue** with the "question" label
-3. **Email the author** at fmbohou.mscia25@esaip.org
+3. **Email the author** rkasiralla.mscia26@esaip.org
 
 ## Reporting Issues
 
