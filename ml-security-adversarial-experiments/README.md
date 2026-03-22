@@ -548,6 +548,7 @@ title = {Adversarial Machine Learning on MNIST: FGSM-Based Analysis},
 ## Contact & Contributions
 
 **Authors:** Rakesh Reddy KASIRALLA
+
 **Contributors:**
 - Ravi Chandan Reddy BANALA  
 - Chaitanya Pavan Kumar GONA  
