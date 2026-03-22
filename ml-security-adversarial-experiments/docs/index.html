@@ -37,27 +37,33 @@
     </style>
 </head>
 <body>
-    <h1>MNIST Adversarial Machine Learning</h1>
-    <p><strong>Adversarial attacks and defenses on MNIST using FGSM</strong></p>
-    
+
+    <h1>Adversarial Machine Learning on MNIST</h1>
+    <p><strong>FGSM-Based Analysis of Model Robustness</strong></p>
+
     <div class="result-box">
         <h2>Key Results</h2>
-        <div class="metric">Baseline: 98.34% → 24.12%</div>
-        <div class="metric">Defended: 96.78% → 82.45%</div>
-        <div class="metric">Improvement: +58.33%</div>
+        <div class="metric">Baseline: 99.00% → 96.95%</div>
+        <div class="metric">Adversarial Training: 99.13% → 97.85%</div>
+        <div class="metric">Improvement: +0.90%</div>
     </div>
-    
+
     <h2>Project Overview</h2>
-    <p>Complete implementation of FGSM adversarial attacks and adversarial training defense on MNIST digit classification.</p>
-    
+    <p>
+        This project presents an implementation of FGSM adversarial attacks and adversarial training 
+        on a CNN trained for MNIST digit classification. The study evaluates model performance under 
+        different perturbation levels and analyzes robustness improvements.
+    </p>
+
     <h2>Visualizations</h2>
-    <img src="../results/final_robustness_comparison.png" alt="Results">
-    
+    <img src="../results/final_robustness_comparison.png" alt="Robustness Comparison">
+
     <h2>Links</h2>
     <ul>
-        <li><a href="https://github.com/Jiren896/mnist-adversarial-ml">GitHub Repository</a></li>
+        <li><a href="https://github.com/swain1906/mnist-adversarial-ml">GitHub Repository</a></li>
         <li><a href="../report/experiment_report.md">Full Report</a></li>
         <li><a href="../README.md">Documentation</a></li>
     </ul>
+
 </body>
 </html>
