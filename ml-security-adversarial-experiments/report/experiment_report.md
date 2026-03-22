@@ -1,9 +1,11 @@
 
 # MNIST Adversarial Machine Learning Experiment Report
 
-**Authors:** MBOHOU Fils Aboubakar Sidik, GUEMGNO Defeugaing Harold, DIALLO Abdoul Mazid, NDOM Christian Manuel 
-**Date:** November 11, 2025  
-**Project:** Adversarial ML - FGSM Attack & Defense
+**Author:** Rakesh Reddy Kasiralla  
+**Contributors:** Ravi Chandan Reddy Banala, Chaitanya Pavan Kumar Gona, Akash Prakashan, Lavaraju Adarapu, Nikitha Antony, Bibin Vellangott Cheruvadi, Surya Prakash Gandu  
+
+**Date:** March 2026  
+**Project:** Adversarial Machine Learning on MNIST (FGSM-Based Analysis)
 
 ---
 
